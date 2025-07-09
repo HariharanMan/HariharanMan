@@ -25,18 +25,25 @@ I am **Hariharan M V**, a passionate AI & Machine Learning enthusiast who loves 
 
 ## 💡 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?logo=python&logoColor=blue)
-![GenAI](https://img.shields.io/badge/GenAI-%2300C4CC.svg?logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%2300C4CC.svg?logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-%2300C4CC.svg?logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C4CC.svg?logo=scikitlearn&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B2B.svg?logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?logo=tailwindcss&logoColor=white)
+### 🖋️ Programming Languages
+![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B2B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![GenAI](https://img.shields.io/badge/Generative_AI-00C4CC.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00C4CC.svg?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00C4CC.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00C4CC.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
 ---
