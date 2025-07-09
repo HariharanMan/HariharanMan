@@ -13,12 +13,14 @@ I am **Hariharan M V**, a passionate AI & Machine Learning enthusiast who loves 
 
 ---
 
-## 🔥 Current Projects
-- 📈 **Stock Prediction App**: Using Machine Learning to forecast stock prices and analyze market trends.
-  
-- 🏰 **Disney Image Classifier**: Developed a Convolutional Neural Network (CNN)-based image classifier to categorize Disney images into specific themes and characters. This AI-powered model processes and classifies images to automate content categorization for Disney-related applications.
-  
-- 🎨 **AI Content Creation Hub**: Building a content creation platform with 9 powerful AI tools for content generation. These tools include text generation, image enhancement, voice synthesis, video editing, and more, enabling creators to produce engaging content quickly and efficiently.
+## 🔥 Projects
+
+- 📝 **ResumeCrafter**: A web application that helps users craft professional resumes effortlessly. It allows users to input their details and generates beautifully formatted resumes, ready to download and share.
+
+- 🗒️ **ForgetNot**: A smart note-taking app that converts your voice into structured tasks and notes. Users can record tasks on the go, and the AI organizes them with titles, descriptions, and due dates, complete with reminders.
+
+- 🎨 **AI Content Creation Hub**: A content creation platform featuring 9 powerful AI tools, including text generation, image enhancement, voice synthesis, and video editing. Designed to help creators produce engaging content efficiently and creatively.
+
 
 
 ## 💡 Languages & Tools
