@@ -34,11 +34,12 @@ Check out my profile — and feel free to connect with me! 🚀
 
 ## 🔥 Projects
 
-- 📝 **ResumeCrafter**: A web application that helps users craft professional resumes effortlessly. It allows users to input their details and generates beautifully formatted resumes, ready to download and share.
 
-- 🗒️ **ForgetNot**: A smart note-taking app that converts your voice into structured tasks and notes. Users can record tasks on the go, and the AI organizes them with titles, descriptions, and due dates, complete with reminders.
+- 🤖 **Personal Branding Copilot**: An AI-powered platform that helps users build a strong online presence by generating professional LinkedIn content like headlines, bios, summaries, and posts. It uses Gemini AI to create personalized branding content based on user inputs.
 
-- 🎨 **AI Content Creation Hub**: A content creation platform featuring 9 powerful AI tools, including text generation, image enhancement, voice synthesis, and video editing. Designed to help creators produce engaging content efficiently and creatively.
+- 🧑‍💼 **Employee Management System**: A web-based system for managing employee records efficiently. It allows admins to add, update, view, and delete employee details, helping organizations maintain structured data and simplify employee handling workflows.
+
+- 📄 **DocubotAI**: A document-based AI chatbot that lets users upload documents and ask questions to get accurate answers. It uses a RAG (Retrieval-Augmented Generation) approach to fetch relevant content from the document and respond with context-aware results through a chat interface.
 
 
 
@@ -47,7 +48,6 @@ Check out my profile — and feel free to connect with me! 🚀
 ### 🖋️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
